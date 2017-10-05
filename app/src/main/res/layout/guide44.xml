@@ -13,7 +13,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="１　非常招集基準確認(緊援隊)"
+            android:text="１　緊急消防援助隊出場基準確認(緊援隊)"
             android:textColor="#111111"
             android:textSize="20sp"
             android:layout_marginBottom="20dp"/>

@@ -48,7 +48,7 @@ public class GuideActivity extends AppCompatActivity {
         //以下、リストビューを使って選択ボタン（のように見せる）作成
         ListView mListView = (ListView)findViewById(R.id.listGuide);
         //データを準備
-        String[] title = {"非常招集確認ボタン","情報確認ボタン"};
+        String[] title = {"緊援隊出場基準確認ボタン","情報確認ボタン"};
         String[] content = {"事象に応じた招集命令の確認方法","気象情報、ライフライン等情報の確認方法"};
         String[] number = {"１","２"};
         ArrayList<Guide> guides = new ArrayList<>();
